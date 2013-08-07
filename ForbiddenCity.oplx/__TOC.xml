@@ -7,21 +7,22 @@
     <draw-folded/>
     <status-display>basic</status-display>
     <task-view>
-      <split-view-divider-position>1012</split-view-divider-position>
-      <outline x="0" y="0" w="1012" h="774">
+      <split-view-divider-position>954</split-view-divider-position>
+      <outline x="0" y="0" w="954" h="774">
         <column name="Violations" width="20"/>
         <column name="Notes" width="20"/>
-        <column name="Title" width="443"/>
-        <column name="Start" width="124"/>
-        <column name="End" width="124"/>
-        <column name="Prerequisites" width="102"/>
+        <column name="Title" width="389"/>
+        <column name="Start" width="72"/>
+        <column name="End" width="86"/>
+        <column name="Prerequisites" width="94"/>
         <column name="Effort" width="70"/>
-        <column name="Assigned" width="100"/>
-        <expanded-items idrefs="t83 t46 t1 t13 t71 t2 t84 t30 t100 t3 t89 t72 t56 t85 t52 t73 t112 t99 t82 t66 t95 t110 t12 t58"/>
-        <expanded-item-notes idrefs="t83 t112 t13 t72 t46 t16 t89 t84 t73 t1 t110 t100 t82 t12 t123 t71 t85 t99 t52"/>
-        <selected-items-at-filter-time idrefs="t73 t81 t58 t66 t109 t82 t121 t67 t110 t83 t68 t91 t76 t84 t122 t92 t69 t77 t10 t85 t93 t78 t100 t123 t86 t79 t112 t12 t87 t95 t13 t124 t88 t96 t113 t14 t89 t97 t102 t30 t125 t15 t98 t31 t114 t16 t99 t103 t40 t115 t41 t104 t34 t50 t43 t105 t51 t36 t44 t29 t52 t60 t37 t45 t106 t53 t2 t61 t46 t3 t54 t4 t39 t62 t47 t5 t55 t6 t71 t48 t7 t56 t64 t8 t49 t72 t80 t9 t65 t120"/>
+        <column name="Assigned" width="72"/>
+        <column name="%Done" width="87"/>
+        <expanded-items idrefs="t83 t46 t1 t13 t71 t84 t2 t30 t89 t3 t72 t100 t56 t127 t85 t52 t73 t112 t99 t82 t66 t95 t110 t12 t58"/>
+        <expanded-item-notes idrefs="t46 t112 t13 t72 t83 t16 t89 t84 t73 t1 t110 t100 t82 t12 t123 t71 t85 t52 t99"/>
+        <selected-items-at-filter-time idrefs="t73 t81 t58 t66 t109 t82 t121 t67 t110 t83 t68 t91 t76 t84 t122 t92 t69 t77 t10 t85 t93 t100 t78 t123 t86 t79 t112 t12 t87 t95 t13 t88 t124 t96 t113 t89 t97 t102 t30 t125 t98 t114 t31 t16 t99 t103 t40 t115 t41 t104 t34 t127 t50 t43 t105 t51 t128 t44 t52 t29 t60 t45 t106 t53 t2 t129 t61 t46 t3 t54 t39 t62 t47 t5 t130 t55 t6 t71 t48 t7 t56 t64 t8 t131 t49 t72 t9 t80 t65 t120"/>
       </outline>
-      <gantt-view x="-45" y="0" w="423" h="774">
+      <gantt-view x="-45" y="0" w="481" h="774">
         <view-mode>actual</view-mode>
         <dependency-lines/>
         <constraints/>
@@ -127,10 +128,10 @@
     </calendar>
   </window>
   <project>
-    <next-task-id>126</next-task-id>
+    <next-task-id>132</next-task-id>
     <next-resource-id>9</next-resource-id>
     <scenario id="c-0hQ1zwZn3" name="Actual" filename="Actual.xml"/>
-    <date-display dates="true" times="true" seconds="false"/>
+    <date-display dates="true" times="false" seconds="false"/>
     <numbering-style>wbs</numbering-style>
     <auto-level/>
     <critical-path-slack>0</critical-path-slack>
