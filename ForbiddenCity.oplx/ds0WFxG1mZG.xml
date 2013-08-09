@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<scenario xmlns="http://www.omnigroup.com/namespace/OmniPlan/v2" id="c-0hQ1zwZn3">
+<scenario xmlns="http://www.omnigroup.com/namespace/OmniPlan/v2" id="ds0WFxG1mZG">
   <start-date>2013-08-02T00:00:00.000Z</start-date>
   <granularity>days</granularity>
   <prototype-task>
@@ -481,7 +481,7 @@
   </task>
   <task id="t62">
     <title>美术2</title>
-    <leveled-start>2013-08-23T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-08-22T00:00:00.000Z</leveled-start>
     <effort>28800</effort>
     <prerequisite-task idref="t64"/>
     <assignment idref="r7"/>
@@ -489,8 +489,7 @@
   <task id="t64">
     <title>美术1</title>
     <leveled-start>2013-08-21T00:00:00.000Z</leveled-start>
-    <effort>57600</effort>
-    <effort-done>28800</effort-done>
+    <effort>28800</effort>
     <prerequisite-task idref="t122"/>
     <assignment idref="r7"/>
   </task>
@@ -516,7 +515,7 @@
   </task>
   <task id="t68">
     <title>美术</title>
-    <leveled-start>2013-08-26T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-08-23T00:00:00.000Z</leveled-start>
     <effort>14400</effort>
     <prerequisite-task idref="t62"/>
     <assignment idref="r7"/>
@@ -584,14 +583,14 @@
   </task>
   <task id="t77">
     <title>美术</title>
-    <leveled-start>2013-08-29T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-08-28T00:00:00.000Z</leveled-start>
     <effort>57600</effort>
     <prerequisite-task idref="t78"/>
     <assignment idref="r7"/>
   </task>
   <task id="t78">
     <title>美术</title>
-    <leveled-start>2013-08-27T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-08-26T00:00:00.000Z</leveled-start>
     <effort>57600</effort>
     <prerequisite-task idref="t68"/>
     <assignment idref="r7"/>
@@ -681,7 +680,7 @@
   </task>
   <task id="t86">
     <title>主场景原画</title>
-    <leveled-start>2013-09-02T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-08-30T00:00:00.000Z</leveled-start>
     <effort>86400</effort>
     <prerequisite-task idref="t77"/>
     <assignment idref="r7"/>
@@ -718,7 +717,7 @@
   </task>
   <task id="t91">
     <title>美术</title>
-    <leveled-start>2013-09-09T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-09-06T00:00:00.000Z</leveled-start>
     <effort>57600</effort>
     <prerequisite-task idref="t96"/>
     <assignment idref="r7"/>
@@ -746,7 +745,7 @@
   </task>
   <task id="t96">
     <title>美术</title>
-    <leveled-start>2013-09-05T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-09-04T00:00:00.000Z</leveled-start>
     <effort>57600</effort>
     <prerequisite-task idref="t86"/>
     <assignment idref="r7"/>
@@ -806,7 +805,7 @@
   </task>
   <task id="t103">
     <title>美术</title>
-    <leveled-start>2013-09-11T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-09-10T00:00:00.000Z</leveled-start>
     <effort>57600</effort>
     <prerequisite-task idref="t91"/>
     <assignment idref="r7"/>
@@ -827,7 +826,7 @@
   </task>
   <task id="t106">
     <title>美术</title>
-    <leveled-start>2013-09-13T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-09-12T00:00:00.000Z</leveled-start>
     <effort>57600</effort>
     <prerequisite-task idref="t103"/>
     <assignment idref="r7"/>
@@ -881,7 +880,7 @@
   </task>
   <task id="t114">
     <title>美术</title>
-    <leveled-start>2013-09-17T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-09-16T00:00:00.000Z</leveled-start>
     <effort>57600</effort>
     <prerequisite-task idref="t106"/>
     <assignment idref="r7"/>
@@ -902,7 +901,7 @@
   </task>
   <task id="t118">
     <title>美术</title>
-    <leveled-start>2013-09-22T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-09-18T00:00:00.000Z</leveled-start>
     <effort>57600</effort>
     <prerequisite-task idref="t114"/>
     <assignment idref="r7"/>
@@ -989,7 +988,7 @@
     <title>物理引擎Demo</title>
     <leveled-start>2013-08-06T00:00:00.000Z</leveled-start>
     <effort>144000</effort>
-    <effort-done>72000</effort-done>
+    <effort-done>28799.998046875</effort-done>
     <start-constraint-date>2013-08-05T00:00:00.000Z</start-constraint-date>
     <prerequisite-task idref="t128"/>
     <assignment idref="r2"/>
