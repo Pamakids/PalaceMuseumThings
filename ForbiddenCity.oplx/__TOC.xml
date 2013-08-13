@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <omniplan xmlns="http://www.omnigroup.com/namespace/OmniPlan/v2">
-  <window x="2" y="0" w="1436" h="878">
+  <window x="3" y="0" w="1436" h="878">
     <editing-scenario>c-0hQ1zwZn3</editing-scenario>
     <comparison-scenario>ds0WFxG1mZG</comparison-scenario>
     <view>task</view>
@@ -19,9 +19,9 @@
         <column name="Effort" width="70"/>
         <column name="Assigned" width="72"/>
         <column name="%Done" width="87"/>
-        <expanded-items idrefs="t46 t83 t13 t1 t71 t84 t2 t30 t89 t127 t72 t3 t100 t85 t56 t52 t73 t112 t99 t82 t66 t58 t12 t110 t95"/>
-        <expanded-item-notes idrefs="t112 t13 t83 t46 t72 t16 t89 t84 t73 t1 t110 t100 t82 t71 t12 t123 t85 t99 t52"/>
-        <selected-items-at-filter-time idrefs="t73 t81 t58 t66 t109 t82 t121 t67 t110 t83 t91 t68 t76 t84 t122 t69 t92 t77 t10 t85 t93 t100 t78 t123 t86 t79 t112 t12 t87 t95 t124 t88 t13 t96 t113 t89 t97 t102 t30 t125 t98 t31 t114 t16 t99 t103 t40 t115 t41 t104 t127 t34 t50 t43 t105 t51 t128 t44 t52 t29 t60 t45 t106 t53 t129 t2 t61 t3 t46 t54 t62 t39 t47 t130 t5 t55 t6 t48 t71 t7 t56 t64 t8 t131 t72 t49 t9 t80 t65 t120"/>
+        <expanded-items idrefs="t83 t46 t13 t1 t71 t2 t84 t100 t89 t72 t127 t56 t85 t52 t73 t112 t99 t82 t66 t58 t95 t110 t12"/>
+        <expanded-item-notes idrefs="t83 t72 t13 t112 t99 t16 t89 t84 t73 t1 t110 t100 t82 t12 t123 t71 t85 t46 t52"/>
+        <selected-items-at-filter-time idrefs="t73 t81 t58 t66 t132 t109 t82 t121 t67 t83 t110 t68 t91 t76 t84 t122 t69 t92 t77 t10 t85 t93 t78 t100 t123 t86 t79 t112 t12 t87 t95 t124 t88 t13 t96 t113 t89 t97 t102 t30 t125 t98 t31 t114 t16 t103 t99 t40 t115 t41 t104 t127 t34 t50 t43 t105 t51 t128 t44 t29 t52 t60 t45 t106 t53 t2 t129 t61 t3 t46 t54 t39 t62 t47 t5 t130 t55 t6 t48 t71 t7 t56 t64 t8 t131 t72 t49 t9 t80 t65 t120"/>
       </outline>
       <gantt-view x="-45" y="0" w="481" h="774">
         <view-mode>actual</view-mode>
@@ -74,7 +74,7 @@
         <column name="Type" width="49"/>
         <column name="Resource" width="121"/>
         <column name="#" width="75"/>
-        <selected-items-at-filter-time idrefs="r3 r6 r4 r7 r2 r5 r8"/>
+        <selected-items-at-filter-time idrefs="r3 r6 r9 r4 r7 r2 r5 r8"/>
       </outline>
       <timeline x="-55" y="0" w="1101" h="774">
         <task-bar-label task-type="group" position="left">
@@ -129,8 +129,8 @@
     </calendar>
   </window>
   <project>
-    <next-task-id>132</next-task-id>
-    <next-resource-id>9</next-resource-id>
+    <next-task-id>133</next-task-id>
+    <next-resource-id>10</next-resource-id>
     <scenario id="c-0hQ1zwZn3" name="Actual" filename="Actual.xml"/>
     <scenario id="ds0WFxG1mZG" name="Baseline 13-8-8" filename="ds0WFxG1mZG.xml"/>
     <date-display dates="true" times="false" seconds="false"/>
