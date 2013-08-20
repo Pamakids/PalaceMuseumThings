@@ -202,7 +202,7 @@
   </task>
   <task id="t10">
     <title>开发</title>
-    <leveled-start>2013-08-21T09:00:00.000Z</leveled-start>
+    <leveled-start>2013-08-20T00:00:00.000Z</leveled-start>
     <effort>14400</effort>
     <prerequisite-task idref="t7"/>
     <assignment idref="r2"/>
@@ -341,7 +341,7 @@
   </task>
   <task id="t40">
     <title>前端开发</title>
-    <leveled-start>2013-08-26T09:00:00.000Z</leveled-start>
+    <leveled-start>2013-08-21T09:00:00.000Z</leveled-start>
     <effort>10800</effort>
     <prerequisite-task idref="t10"/>
     <assignment idref="r2"/>
@@ -362,14 +362,14 @@
   </task>
   <task id="t44">
     <title>个人信息、成就、收集、游戏入口研发</title>
-    <leveled-start>2013-08-28T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-08-26T09:00:00.000Z</leveled-start>
     <effort>57600</effort>
     <prerequisite-task idref="t40"/>
     <assignment idref="r2"/>
   </task>
   <task id="t45">
     <title>速成手册</title>
-    <leveled-start>2013-08-30T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-08-29T00:00:00.000Z</leveled-start>
     <effort>86400</effort>
     <prerequisite-task idref="t44"/>
     <assignment idref="r2"/>
@@ -401,7 +401,7 @@
     <title>策划交互点</title>
     <leveled-start>2013-08-15T00:00:00.000Z</leveled-start>
     <effort>14400</effort>
-    <effort-done>11519.9993133545</effort-done>
+    <effort-done>11519.9990234375</effort-done>
     <prerequisite-task idref="t54"/>
     <assignment idref="r8"/>
   </task>
@@ -471,6 +471,7 @@
     <child-task idref="t62"/>
     <child-task idref="t65"/>
     <child-task idref="t67"/>
+    <child-task idref="t136"/>
   </task>
   <task id="t60">
     <title>开发</title>
@@ -506,6 +507,7 @@
     <title>开发</title>
     <leveled-start>2013-08-20T00:00:00.000Z</leveled-start>
     <effort>57600</effort>
+    <effort-done>28800</effort-done>
     <prerequisite-task idref="t60"/>
     <assignment idref="r2"/>
   </task>
@@ -534,7 +536,7 @@
     <title>开发</title>
     <leveled-start>2013-08-22T00:00:00.000Z</leveled-start>
     <effort>28800</effort>
-    <effort-done>23039.998626709</effort-done>
+    <effort-done>28800</effort-done>
     <prerequisite-task idref="t65"/>
     <assignment idref="r2"/>
   </task>
@@ -608,7 +610,7 @@
   </task>
   <task id="t79">
     <title>开发</title>
-    <leveled-start>2013-09-03T09:00:00.000Z</leveled-start>
+    <leveled-start>2013-09-02T09:00:00.000Z</leveled-start>
     <effort>28800</effort>
     <prerequisite-task idref="t69"/>
     <assignment idref="r2"/>
@@ -622,7 +624,7 @@
   </task>
   <task id="t81">
     <title>开发</title>
-    <leveled-start>2013-09-05T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-09-04T00:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <prerequisite-task idref="t79"/>
     <assignment idref="r2"/>
@@ -705,7 +707,7 @@
   </task>
   <task id="t88">
     <title>开发</title>
-    <leveled-start>2013-09-12T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-09-11T00:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <prerequisite-task idref="t81"/>
     <assignment idref="r2"/>
@@ -742,7 +744,7 @@
   </task>
   <task id="t93">
     <title>开发</title>
-    <leveled-start>2013-09-23T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-09-22T00:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <prerequisite-task idref="t98"/>
     <assignment idref="r2"/>
@@ -770,7 +772,7 @@
   </task>
   <task id="t98">
     <title>开发</title>
-    <leveled-start>2013-09-22T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-09-18T00:00:00.000Z</leveled-start>
     <effort>28800</effort>
     <prerequisite-task idref="t88"/>
     <assignment idref="r2"/>
@@ -823,7 +825,7 @@
   </task>
   <task id="t104">
     <title>开发</title>
-    <leveled-start>2013-09-29T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-09-27T00:00:00.000Z</leveled-start>
     <effort>28800</effort>
     <prerequisite-task idref="t93"/>
     <assignment idref="r2"/>
@@ -844,7 +846,7 @@
   </task>
   <task id="t109">
     <title>开发，可写的，可选的</title>
-    <leveled-start>2013-10-08T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-09-29T00:00:00.000Z</leveled-start>
     <effort>86400</effort>
     <prerequisite-task idref="t104"/>
     <assignment idref="r2"/>
@@ -899,7 +901,7 @@
   </task>
   <task id="t115">
     <title>开发</title>
-    <leveled-start>2013-10-11T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-10-10T00:00:00.000Z</leveled-start>
     <effort>28800</effort>
     <prerequisite-task idref="t109"/>
     <assignment idref="r2"/>
@@ -920,7 +922,7 @@
   </task>
   <task id="t119">
     <title>开发</title>
-    <leveled-start>2013-10-12T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-10-11T00:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <prerequisite-task idref="t115"/>
     <assignment idref="r2"/>
@@ -933,6 +935,7 @@
     <title>产品原型</title>
     <leveled-start>2013-08-12T00:00:00.000Z</leveled-start>
     <effort>57600</effort>
+    <effort-done>17279.9989700317</effort-done>
     <start-constraint-date>2013-08-02T16:00:00.000Z</start-constraint-date>
     <prerequisite-task idref="t31"/>
     <assignment idref="r3"/>
@@ -973,7 +976,7 @@
   </task>
   <task id="t125">
     <title>游戏元素原画</title>
-    <leveled-start>2013-08-20T09:00:00.000Z</leveled-start>
+    <leveled-start>2013-08-21T09:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <start-constraint-date>2013-08-02T16:00:00.000Z</start-constraint-date>
     <prerequisite-task idref="t61"/>
@@ -1042,8 +1045,8 @@
   <task id="t134">
     <title>Alert组件</title>
     <leveled-start>2013-08-19T00:00:00.000Z</leveled-start>
-    <effort>57600</effort>
-    <effort-done>28800</effort-done>
+    <effort>86400</effort>
+    <effort-done>69119.995880127</effort-done>
     <start-constraint-date>2013-08-19T00:00:00.000Z</start-constraint-date>
     <assignment idref="r11"/>
   </task>
@@ -1054,6 +1057,13 @@
     <start-constraint-date>2013-08-19T00:00:00.000Z</start-constraint-date>
     <prerequisite-task idref="t122"/>
     <assignment idref="r7"/>
+  </task>
+  <task id="t136">
+    <title>帽子调整</title>
+    <leveled-start>2013-08-21T00:00:00.000Z</leveled-start>
+    <effort>28800</effort>
+    <start-constraint-date>2013-08-21T00:00:00.000Z</start-constraint-date>
+    <assignment idref="r6"/>
   </task>
   <critical-path root="-1" enabled="false" resources="false">
     <color r="1" g="0.5" b="0.5"/>
