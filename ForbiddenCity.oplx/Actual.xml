@@ -116,12 +116,12 @@
     <child-task idref="t46"/>
     <child-task idref="t12"/>
     <child-task idref="t13"/>
+    <child-task idref="t82"/>
+    <child-task idref="t71"/>
     <child-task idref="t1"/>
     <child-task idref="t2"/>
     <child-task idref="t30"/>
     <child-task idref="t3"/>
-    <child-task idref="t71"/>
-    <child-task idref="t82"/>
     <child-task idref="t83"/>
     <child-task idref="t84"/>
     <child-task idref="t85"/>
@@ -174,7 +174,7 @@
   </task>
   <task id="t6">
     <title>图画</title>
-    <leveled-start>2013-08-19T09:00:00.000Z</leveled-start>
+    <leveled-start>2013-08-22T09:00:00.000Z</leveled-start>
     <effort>86400</effort>
     <prerequisite-task idref="t5"/>
     <assignment idref="r7"/>
@@ -195,7 +195,7 @@
   </task>
   <task id="t9">
     <title>美术</title>
-    <leveled-start>2013-08-23T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-08-28T00:00:00.000Z</leveled-start>
     <effort>86400</effort>
     <prerequisite-task idref="t6"/>
     <assignment idref="r7"/>
@@ -414,7 +414,7 @@
   </task>
   <task id="t50">
     <title>UI皮肤</title>
-    <leveled-start>2013-08-09T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-08-20T09:00:00.000Z</leveled-start>
     <effort>14400</effort>
     <prerequisite-task idref="t47"/>
     <assignment idref="r6"/>
@@ -453,7 +453,7 @@
   </task>
   <task id="t55">
     <title>多个动作策划，最好跟模块走</title>
-    <leveled-start>2013-09-11T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-09-11T09:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <prerequisite-task idref="t48"/>
     <assignment idref="r8"/>
@@ -618,7 +618,7 @@
   </task>
   <task id="t80">
     <title>策划</title>
-    <leveled-start>2013-09-23T09:00:00.000Z</leveled-start>
+    <leveled-start>2013-09-11T00:00:00.000Z</leveled-start>
     <effort>28800</effort>
     <prerequisite-task idref="t76"/>
     <assignment idref="r8"/>
@@ -695,15 +695,16 @@
   </task>
   <task id="t86">
     <title>主场景原画</title>
-    <leveled-start>2013-08-27T09:00:00.000Z</leveled-start>
+    <leveled-start>2013-08-19T09:00:00.000Z</leveled-start>
     <effort>86400</effort>
     <prerequisite-task idref="t77"/>
     <assignment idref="r7"/>
   </task>
   <task id="t87">
     <title>策划</title>
-    <leveled-start>2013-09-24T09:00:00.000Z</leveled-start>
+    <leveled-start>2013-09-11T00:00:00.000Z</leveled-start>
     <effort>86400</effort>
+    <effort-done>86400</effort-done>
     <prerequisite-task idref="t76"/>
     <assignment idref="r8"/>
   </task>
@@ -739,7 +740,7 @@
   </task>
   <task id="t92">
     <title>策划</title>
-    <leveled-start>2013-10-09T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-09-27T00:00:00.000Z</leveled-start>
     <effort>43200</effort>
     <prerequisite-task idref="t97"/>
     <assignment idref="r8"/>
@@ -760,14 +761,14 @@
   </task>
   <task id="t96">
     <title>美术</title>
-    <leveled-start>2013-09-02T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-08-30T09:00:00.000Z</leveled-start>
     <effort>57600</effort>
     <prerequisite-task idref="t86"/>
     <assignment idref="r7"/>
   </task>
   <task id="t97">
     <title>策划</title>
-    <leveled-start>2013-09-29T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-09-24T09:00:00.000Z</leveled-start>
     <effort>43200</effort>
     <prerequisite-task idref="t87"/>
     <assignment idref="r8"/>
@@ -813,7 +814,7 @@
   </task>
   <task id="t102">
     <title>策划</title>
-    <leveled-start>2013-10-11T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-10-08T00:00:00.000Z</leveled-start>
     <effort>43200</effort>
     <prerequisite-task idref="t92"/>
     <assignment idref="r8"/>
@@ -834,7 +835,7 @@
   </task>
   <task id="t105">
     <title>策划</title>
-    <leveled-start>2013-10-14T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-10-10T00:00:00.000Z</leveled-start>
     <effort>5400</effort>
     <prerequisite-task idref="t102"/>
     <assignment idref="r8"/>
@@ -888,7 +889,7 @@
   </task>
   <task id="t113">
     <title>策划</title>
-    <leveled-start>2013-10-15T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-10-11T00:00:00.000Z</leveled-start>
     <effort>43200</effort>
     <prerequisite-task idref="t105"/>
     <assignment idref="r8"/>
@@ -910,7 +911,7 @@
   </task>
   <task id="t117">
     <title>策划</title>
-    <leveled-start>2013-10-17T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-10-14T00:00:00.000Z</leveled-start>
     <effort>43200</effort>
     <prerequisite-task idref="t113"/>
     <assignment idref="r8"/>
@@ -937,7 +938,7 @@
     <title>产品原型</title>
     <leveled-start>2013-08-12T00:00:00.000Z</leveled-start>
     <effort>57600</effort>
-    <effort-done>51839.998626709</effort-done>
+    <effort-done>51840</effort-done>
     <start-constraint-date>2013-08-02T16:00:00.000Z</start-constraint-date>
     <prerequisite-task idref="t31"/>
     <assignment idref="r3"/>
@@ -970,7 +971,7 @@
   </task>
   <task id="t124">
     <title>策划分享点和文案</title>
-    <leveled-start>2013-09-18T00:00:00.000Z</leveled-start>
+    <leveled-start>2013-09-22T00:00:00.000Z</leveled-start>
     <effort>86400</effort>
     <start-constraint-date>2013-08-02T16:00:00.000Z</start-constraint-date>
     <prerequisite-task idref="t55"/>
@@ -978,7 +979,7 @@
   </task>
   <task id="t125">
     <title>游戏元素原画</title>
-    <leveled-start>2013-08-20T09:00:00.000Z</leveled-start>
+    <leveled-start>2013-08-08T09:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <start-constraint-date>2013-08-02T16:00:00.000Z</start-constraint-date>
     <prerequisite-task idref="t61"/>
@@ -1072,7 +1073,7 @@
     <title>研发细节调整</title>
     <leveled-start>2013-08-23T00:00:00.000Z</leveled-start>
     <effort>28800</effort>
-    <effort-done>17279.9989700317</effort-done>
+    <effort-done>28800</effort-done>
     <start-constraint-date>2013-08-22T00:00:00.000Z</start-constraint-date>
     <prerequisite-task idref="t69"/>
     <assignment idref="r2"/>
