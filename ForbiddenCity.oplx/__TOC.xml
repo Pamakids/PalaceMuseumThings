@@ -8,7 +8,7 @@
     <status-display>basic</status-display>
     <task-view>
       <split-view-divider-position>746</split-view-divider-position>
-      <outline x="0" y="1607" w="746" h="774">
+      <outline x="0" y="575" w="746" h="774">
         <column name="Violations" width="20"/>
         <column name="Notes" width="20"/>
         <column name="Title" width="206"/>
@@ -18,11 +18,11 @@
         <column name="Effort" width="70"/>
         <column name="Assigned" width="72"/>
         <column name="%Done" width="87"/>
-        <expanded-items idrefs="t83 t46 t1 t13 t71 t2 t84 t30 t100 t89 t72 t3 t56 t127 t85 t52 t73 t99 t82 t66 t58 t110 t95 t12"/>
-        <expanded-item-notes idrefs="t112 t13 t72 t52 t83 t16 t89 t84 t73 t1 t110 t100 t82 t71 t123 t12 t85 t46 t99"/>
-        <selected-items-at-filter-time idrefs="t73 t81 t58 t66 t132 t109 t82 t121 t67 t110 t83 t68 t91 t133 t76 t84 t122 t92 t69 t77 t10 t85 t134 t93 t100 t78 t86 t123 t79 t112 t12 t87 t135 t95 t124 t13 t88 t96 t113 t136 t89 t97 t102 t30 t125 t98 t31 t114 t137 t16 t103 t99 t40 t115 t41 t104 t127 t34 t50 t139 t43 t105 t51 t128 t44 t52 t29 t60 t45 t106 t2 t129 t61 t3 t46 t54 t39 t62 t47 t5 t130 t55 t6 t71 t48 t7 t56 t64 t8 t131 t49 t72 t9 t80 t65 t120"/>
+        <expanded-items idrefs="t83 t46 t1 t13 t71 t84 t2 t30 t89 t3 t72 t127 t56 t85 t100 t52 t73 t99 t82 t66 t95 t12 t58 t110"/>
+        <expanded-item-notes idrefs="t83 t72 t13 t112 t46 t16 t89 t84 t73 t1 t110 t100 t82 t12 t71 t123 t85 t52 t99"/>
+        <selected-items-at-filter-time idrefs="t73 t81 t58 t66 t109 t132 t82 t121 t67 t110 t83 t91 t68 t133 t76 t84 t122 t92 t69 t77 t10 t85 t134 t93 t78 t100 t123 t86 t79 t112 t12 t87 t135 t95 t124 t88 t13 t96 t113 t89 t136 t97 t102 t30 t125 t98 t114 t31 t16 t137 t99 t103 t40 t115 t41 t104 t127 t34 t50 t139 t43 t105 t51 t128 t44 t52 t29 t60 t45 t106 t2 t129 t61 t3 t46 t54 t62 t39 t130 t47 t5 t55 t6 t71 t48 t7 t56 t64 t8 t131 t49 t72 t80 t9 t120 t65"/>
       </outline>
-      <gantt-view x="-45" y="1607" w="689" h="774">
+      <gantt-view x="-45" y="575" w="689" h="774">
         <view-mode>actual</view-mode>
         <dependency-lines/>
         <constraints/>
@@ -73,7 +73,7 @@
         <column name="Type" width="49"/>
         <column name="Resource" width="121"/>
         <column name="#" width="75"/>
-        <selected-items-at-filter-time idrefs="r3 r6 r9 r4 r11 r7 r2 r5 r8"/>
+        <selected-items-at-filter-time idrefs="r3 r6 r9 r11 r4 r7 r2 r5 r8"/>
       </outline>
       <timeline x="-63" y="0" w="1101" h="774">
         <task-bar-label task-type="group" position="left">
