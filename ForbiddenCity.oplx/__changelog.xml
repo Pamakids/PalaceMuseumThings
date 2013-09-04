@@ -1,144 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <changelog xmlns="http://www.omnigroup.com/namespace/OmniPlan/v2">
   <version>2.0</version>
-  <task-change-set user="mani" date="2013-08-19T10:31:15.401Z" timestamp="2013-08-19T10:31:15.401Z">
-    <change idref="t7" attribute="resourceLeveledDate" type="date" from="2013-08-22T09:00:00.000Z" to="2013-08-19T00:00:00.000Z" resolved="yes"/>
-    <change idref="t10" attribute="resourceLeveledDate" type="date" from="2013-08-26T00:00:00.000Z" to="2013-08-20T00:00:00.000Z" resolved="yes"/>
-    <change idref="t40" attribute="resourceLeveledDate" type="date" from="2013-08-27T00:00:00.000Z" to="2013-08-26T09:00:00.000Z" resolved="yes"/>
-    <change idref="t60" attribute="resourceLeveledDate" type="date" from="2013-08-19T00:00:00.000Z" to="2013-08-21T00:00:00.000Z" resolved="yes"/>
-    <change idref="t65" attribute="resourceLeveledDate" type="date" from="2013-08-20T00:00:00.000Z" to="2013-08-22T00:00:00.000Z" resolved="yes"/>
-    <change idref="t69" attribute="resourceLeveledDate" type="date" from="2013-08-22T00:00:00.000Z" to="2013-08-26T00:00:00.000Z" resolved="yes"/>
-    <change idref="t134" to="t127" to-position="5" resolved="yes">
-      <change idref="t134" attribute="effort" type="real" from="28800" to="57600"/>
-      <change idref="t134" attribute="internalAssignments" type="string" from="" to="11"/>
-      <change idref="t134" attribute="internalEffortDone" type="real" from="0" to="28800"/>
-      <change idref="t134" attribute="resourceLeveledDate" type="date" to="2013-08-19T00:00:00.000Z"/>
-      <change idref="t134" attribute="startConstraintDate" type="date" to="2013-08-19T00:00:00.000Z"/>
-      <change idref="t134" attribute="title" type="string" to="Alert组件"/>
-    </change>
-    <change idref="t133" attribute="internalEffortDone" type="real" from="28800" to="57600" resolved="yes"/>
-  </task-change-set>
-  <task-change-set user="mani" date="2013-08-19T10:32:23.307Z" timestamp="2013-08-19T10:32:23.307Z">
-    <change idref="t6" attribute="resourceLeveledDate" type="date" from="2013-08-16T00:00:00.000Z" to="2013-08-19T09:00:00.000Z" resolved="yes"/>
-    <change idref="t9" attribute="resourceLeveledDate" type="date" from="2013-08-21T00:00:00.000Z" to="2013-08-23T00:00:00.000Z" resolved="yes"/>
-    <change idref="t135" to="t12" to-position="6" resolved="yes">
-      <change idref="t135" attribute="internalAssignments" type="string" from="" to="7"/>
-      <change idref="t135" attribute="internalPrerequisitesString" type="string" to="122FS"/>
-      <change idref="t135" attribute="resourceLeveledDate" type="date" to="2013-08-19T00:00:00.000Z"/>
-      <change idref="t135" attribute="startConstraintDate" type="date" to="2013-08-19T00:00:00.000Z"/>
-      <change idref="t135" attribute="title" type="string" to="速成手册美术"/>
-    </change>
-    <change idref="t86" attribute="resourceLeveledDate" type="date" from="2013-08-23T09:00:00.000Z" to="2013-08-27T09:00:00.000Z" resolved="yes"/>
-    <change idref="t91" attribute="resourceLeveledDate" type="date" from="2013-09-02T00:00:00.000Z" to="2013-09-04T00:00:00.000Z" resolved="yes"/>
-    <change idref="t96" attribute="resourceLeveledDate" type="date" from="2013-08-29T00:00:00.000Z" to="2013-09-02T00:00:00.000Z" resolved="yes"/>
-    <change idref="t103" attribute="resourceLeveledDate" type="date" from="2013-09-04T00:00:00.000Z" to="2013-09-06T00:00:00.000Z" resolved="yes"/>
-    <change idref="t106" attribute="resourceLeveledDate" type="date" from="2013-09-06T00:00:00.000Z" to="2013-09-10T00:00:00.000Z" resolved="yes"/>
-    <change idref="t114" attribute="resourceLeveledDate" type="date" from="2013-09-10T00:00:00.000Z" to="2013-09-12T00:00:00.000Z" resolved="yes"/>
-    <change idref="t118" attribute="resourceLeveledDate" type="date" from="2013-09-12T00:00:00.000Z" to="2013-09-16T00:00:00.000Z" resolved="yes"/>
-  </task-change-set>
-  <task-change-set user="mani" date="2013-08-19T10:34:26.536Z" timestamp="2013-08-19T10:34:26.536Z">
-    <change idref="t7" attribute="resourceLeveledDate" type="date" from="2013-08-19T00:00:00.000Z" to="2013-08-22T09:00:00.000Z" resolved="yes"/>
-    <change idref="t10" attribute="resourceLeveledDate" type="date" from="2013-08-20T00:00:00.000Z" to="2013-08-26T00:00:00.000Z" resolved="yes"/>
-    <change idref="t40" attribute="resourceLeveledDate" type="date" from="2013-08-26T09:00:00.000Z" to="2013-08-27T00:00:00.000Z" resolved="yes"/>
-    <change idref="t60" attribute="internalPrerequisitesString" type="string" from="127FS" to="131FS" resolved="yes"/>
-    <change idref="t60" attribute="resourceLeveledDate" type="date" from="2013-08-21T00:00:00.000Z" to="2013-08-19T00:00:00.000Z" resolved="yes"/>
-    <change idref="t65" attribute="resourceLeveledDate" type="date" from="2013-08-22T00:00:00.000Z" to="2013-08-20T00:00:00.000Z" resolved="yes"/>
-    <change idref="t69" attribute="resourceLeveledDate" type="date" from="2013-08-26T00:00:00.000Z" to="2013-08-22T00:00:00.000Z" resolved="yes"/>
-  </task-change-set>
-  <task-change-set user="mani" date="2013-08-19T10:40:29.688Z" timestamp="2013-08-19T10:40:29.688Z">
-    <change idref="t7" attribute="resourceLeveledDate" type="date" from="2013-08-22T09:00:00.000Z" to="2013-08-26T09:00:00.000Z" resolved="yes"/>
-    <change idref="t10" attribute="resourceLeveledDate" type="date" from="2013-08-26T00:00:00.000Z" to="2013-08-28T00:00:00.000Z" resolved="yes"/>
-    <change idref="t40" attribute="resourceLeveledDate" type="date" from="2013-08-27T00:00:00.000Z" to="2013-08-29T00:00:00.000Z" resolved="yes"/>
-    <change idref="t44" attribute="resourceLeveledDate" type="date" from="2013-08-28T00:00:00.000Z" to="2013-08-30T00:00:00.000Z" resolved="yes"/>
-    <change idref="t45" attribute="resourceLeveledDate" type="date" from="2013-08-30T00:00:00.000Z" to="2013-09-03T00:00:00.000Z" resolved="yes"/>
-    <change idref="t47" attribute="internalPrerequisitesString" type="string" from="39FS" to="68FS" resolved="yes"/>
-    <change idref="t47" attribute="resourceLeveledDate" type="date" from="2013-08-21T00:00:00.000Z" to="2013-08-08T00:00:00.000Z" resolved="yes"/>
-    <change idref="t48" attribute="internalPrerequisitesString" type="string" from="123FS" to="54FS" resolved="yes"/>
-    <change idref="t48" attribute="resourceLeveledDate" type="date" from="2013-08-27T00:00:00.000Z" to="2013-08-15T00:00:00.000Z" resolved="yes"/>
-    <change idref="t48" attribute="internalEffortDone" type="real" from="0" to="11519.99931335449" resolved="yes"/>
-    <change idref="t49" attribute="internalPrerequisitesString" type="string" from="45FS" to="69FS" resolved="yes"/>
-    <change idref="t49" attribute="resourceLeveledDate" type="date" from="2013-09-04T00:00:00.000Z" to="2013-08-23T00:00:00.000Z" resolved="yes"/>
-    <change idref="t50" attribute="resourceLeveledDate" type="date" from="2013-08-22T00:00:00.000Z" to="2013-08-09T00:00:00.000Z" resolved="yes"/>
-    <change idref="t55" attribute="resourceLeveledDate" type="date" from="2013-08-28T00:00:00.000Z" to="2013-09-11T00:00:00.000Z" resolved="yes"/>
-    <change idref="t80" attribute="resourceLeveledDate" type="date" from="2013-09-11T00:00:00.000Z" to="2013-09-23T09:00:00.000Z" resolved="yes"/>
-    <change idref="t87" attribute="resourceLeveledDate" type="date" from="2013-09-11T09:00:00.000Z" to="2013-09-24T09:00:00.000Z" resolved="yes"/>
-    <change idref="t92" attribute="resourceLeveledDate" type="date" from="2013-09-22T00:00:00.000Z" to="2013-10-09T00:00:00.000Z" resolved="yes"/>
-    <change idref="t97" attribute="resourceLeveledDate" type="date" from="2013-09-17T00:00:00.000Z" to="2013-09-29T00:00:00.000Z" resolved="yes"/>
-    <change idref="t102" attribute="resourceLeveledDate" type="date" from="2013-09-24T00:00:00.000Z" to="2013-10-11T00:00:00.000Z" resolved="yes"/>
-    <change idref="t105" attribute="resourceLeveledDate" type="date" from="2013-09-26T00:00:00.000Z" to="2013-10-14T00:00:00.000Z" resolved="yes"/>
-    <change idref="t113" attribute="resourceLeveledDate" type="date" from="2013-09-27T00:00:00.000Z" to="2013-10-15T00:00:00.000Z" resolved="yes"/>
-    <change idref="t117" attribute="resourceLeveledDate" type="date" from="2013-10-08T00:00:00.000Z" to="2013-10-17T00:00:00.000Z" resolved="yes"/>
-    <change idref="t124" attribute="resourceLeveledDate" type="date" from="2013-09-04T00:00:00.000Z" to="2013-09-18T00:00:00.000Z" resolved="yes"/>
-    <change idref="t125" attribute="resourceLeveledDate" type="date" from="2013-08-08T00:00:00.000Z" to="2013-08-20T09:00:00.000Z" resolved="yes"/>
-  </task-change-set>
-  <task-change-set user="mani" date="2013-08-19T10:50:20.548Z" timestamp="2013-08-19T10:50:20.548Z">
-    <change idref="t7" attribute="resourceLeveledDate" type="date" from="2013-08-26T09:00:00.000Z" to="2013-08-19T00:00:00.000Z" resolved="yes"/>
-    <change idref="t10" attribute="resourceLeveledDate" type="date" from="2013-08-28T00:00:00.000Z" to="2013-08-21T09:00:00.000Z" resolved="yes"/>
-    <change idref="t40" attribute="resourceLeveledDate" type="date" from="2013-08-29T00:00:00.000Z" to="2013-08-26T09:00:00.000Z" resolved="yes"/>
-    <change idref="t44" attribute="resourceLeveledDate" type="date" from="2013-08-30T00:00:00.000Z" to="2013-08-28T00:00:00.000Z" resolved="yes"/>
-    <change idref="t45" attribute="resourceLeveledDate" type="date" from="2013-09-03T00:00:00.000Z" to="2013-08-30T00:00:00.000Z" resolved="yes"/>
-    <change idref="t60" attribute="internalEffortDone" type="real" from="0" to="28800" resolved="yes"/>
-    <change idref="t61" attribute="internalEffortDone" type="real" from="46079.99609375" to="57600" resolved="yes"/>
-    <change idref="t68" attribute="internalEffortDone" type="real" from="0" to="14400" resolved="yes"/>
-    <change idref="t69" attribute="internalEffortDone" type="real" from="0" to="23039.99862670898" resolved="yes"/>
-    <change idref="t79" attribute="resourceLeveledDate" type="date" from="2013-09-05T09:00:00.000Z" to="2013-09-03T09:00:00.000Z" resolved="yes"/>
-    <change idref="t81" attribute="resourceLeveledDate" type="date" from="2013-09-09T00:00:00.000Z" to="2013-09-05T00:00:00.000Z" resolved="yes"/>
-    <change idref="t88" attribute="resourceLeveledDate" type="date" from="2013-09-16T00:00:00.000Z" to="2013-09-12T00:00:00.000Z" resolved="yes"/>
-    <change idref="t93" attribute="resourceLeveledDate" type="date" from="2013-09-25T00:00:00.000Z" to="2013-09-23T00:00:00.000Z" resolved="yes"/>
-    <change idref="t98" attribute="resourceLeveledDate" type="date" from="2013-09-24T00:00:00.000Z" to="2013-09-22T00:00:00.000Z" resolved="yes"/>
-    <change idref="t104" attribute="resourceLeveledDate" type="date" from="2013-10-09T00:00:00.000Z" to="2013-09-29T00:00:00.000Z" resolved="yes"/>
-    <change idref="t109" attribute="resourceLeveledDate" type="date" from="2013-10-10T00:00:00.000Z" to="2013-10-08T00:00:00.000Z" resolved="yes"/>
-    <change idref="t115" attribute="resourceLeveledDate" type="date" from="2013-10-14T00:00:00.000Z" to="2013-10-11T00:00:00.000Z" resolved="yes"/>
-    <change idref="t119" attribute="resourceLeveledDate" type="date" from="2013-10-15T00:00:00.000Z" to="2013-10-12T00:00:00.000Z" resolved="yes"/>
-  </task-change-set>
-  <task-change-set user="mani" date="2013-08-19T10:57:34.623Z" timestamp="2013-08-19T10:57:34.623Z">
-    <change idref="t12" from="t-1" from-position="5" to="t-1" to-position="4" resolved="yes"/>
-  </task-change-set>
-  <task-change-set user="mani" date="2013-08-19T11:23:32.944Z" timestamp="2013-08-19T11:23:32.944Z">
-    <change idref="t53" from="t52" from-position="1" resolved="yes">
-      <change idref="t53" attribute="effort" type="real" from="28800" to="57600"/>
-      <change idref="t53" attribute="internalAssignments" type="string" from="" to="6"/>
-      <change idref="t53" attribute="resourceLeveledDate" type="date" to="2013-08-02T00:00:00.000Z"/>
-      <change idref="t53" attribute="title" type="string" to="模块UI"/>
-    </change>
-    <change idref="t61" attribute="internalPrerequisitesString" type="string" from="53FS" resolved="yes"/>
-  </task-change-set>
-  <task-change-set user="mani" date="2013-08-20T10:33:29.506Z" timestamp="2013-08-20T10:33:29.506Z">
-    <change idref="t134" attribute="effort" type="real" from="57600" to="86400" resolved="yes"/>
-    <change idref="t134" attribute="internalEffortDone" type="real" from="28800" to="46079.99725341797" resolved="yes"/>
-  </task-change-set>
-  <task-change-set user="mani" date="2013-08-20T10:33:37.632Z" timestamp="2013-08-20T10:33:37.632Z">
-    <change idref="t134" attribute="internalEffortDone" type="real" from="46079.99725341797" to="69119.99588012695" resolved="yes"/>
-  </task-change-set>
-  <task-change-set user="mani" date="2013-08-20T10:37:39.138Z" timestamp="2013-08-20T10:37:39.138Z">
-    <change idref="t121" attribute="internalEffortDone" type="real" from="0" to="17279.99897003174" resolved="yes"/>
-  </task-change-set>
-  <task-change-set user="mani" date="2013-08-20T10:41:52.522Z" timestamp="2013-08-20T10:41:52.522Z">
-    <change idref="t136" to="t58" to-position="4" resolved="yes">
-      <change idref="t136" attribute="internalAssignments" type="string" from="" to="6"/>
-      <change idref="t136" attribute="resourceLeveledDate" type="date" to="2013-08-21T00:00:00.000Z"/>
-      <change idref="t136" attribute="startConstraintDate" type="date" to="2013-08-21T00:00:00.000Z"/>
-      <change idref="t136" attribute="title" type="string" to="帽子调整"/>
-    </change>
-    <change idref="t125" attribute="resourceLeveledDate" type="date" from="2013-08-20T09:00:00.000Z" to="2013-08-21T09:00:00.000Z" resolved="yes"/>
-  </task-change-set>
-  <task-change-set user="mani" date="2013-08-20T10:44:16.136Z" timestamp="2013-08-20T10:44:16.136Z">
-    <change idref="t10" attribute="resourceLeveledDate" type="date" from="2013-08-21T09:00:00.000Z" to="2013-08-20T00:00:00.000Z" resolved="yes"/>
-    <change idref="t40" attribute="resourceLeveledDate" type="date" from="2013-08-26T09:00:00.000Z" to="2013-08-21T09:00:00.000Z" resolved="yes"/>
-    <change idref="t44" attribute="resourceLeveledDate" type="date" from="2013-08-28T00:00:00.000Z" to="2013-08-26T09:00:00.000Z" resolved="yes"/>
-    <change idref="t45" attribute="resourceLeveledDate" type="date" from="2013-08-30T00:00:00.000Z" to="2013-08-29T00:00:00.000Z" resolved="yes"/>
-    <change idref="t65" attribute="internalEffortDone" type="real" from="0" to="28800" resolved="yes"/>
-    <change idref="t69" attribute="internalEffortDone" type="real" from="23039.998046875" to="28800" resolved="yes"/>
-    <change idref="t79" attribute="resourceLeveledDate" type="date" from="2013-09-03T09:00:00.000Z" to="2013-09-02T09:00:00.000Z" resolved="yes"/>
-    <change idref="t81" attribute="resourceLeveledDate" type="date" from="2013-09-05T00:00:00.000Z" to="2013-09-04T00:00:00.000Z" resolved="yes"/>
-    <change idref="t88" attribute="resourceLeveledDate" type="date" from="2013-09-12T00:00:00.000Z" to="2013-09-11T00:00:00.000Z" resolved="yes"/>
-    <change idref="t93" attribute="resourceLeveledDate" type="date" from="2013-09-23T00:00:00.000Z" to="2013-09-22T00:00:00.000Z" resolved="yes"/>
-    <change idref="t98" attribute="resourceLeveledDate" type="date" from="2013-09-22T00:00:00.000Z" to="2013-09-18T00:00:00.000Z" resolved="yes"/>
-    <change idref="t104" attribute="resourceLeveledDate" type="date" from="2013-09-29T00:00:00.000Z" to="2013-09-27T00:00:00.000Z" resolved="yes"/>
-    <change idref="t109" attribute="resourceLeveledDate" type="date" from="2013-10-08T00:00:00.000Z" to="2013-09-29T00:00:00.000Z" resolved="yes"/>
-    <change idref="t115" attribute="resourceLeveledDate" type="date" from="2013-10-11T00:00:00.000Z" to="2013-10-10T00:00:00.000Z" resolved="yes"/>
-    <change idref="t119" attribute="resourceLeveledDate" type="date" from="2013-10-12T00:00:00.000Z" to="2013-10-11T00:00:00.000Z" resolved="yes"/>
-  </task-change-set>
   <task-change-set user="mani" date="2013-08-22T10:39:33.939Z" timestamp="2013-08-22T10:39:33.939Z">
     <change idref="t40" attribute="resourceLeveledDate" type="date" from="2013-08-21T09:00:00.000Z" to="2013-08-21T00:00:00.000Z" resolved="yes"/>
     <change idref="t44" attribute="resourceLeveledDate" type="date" from="2013-08-26T09:00:00.000Z" to="2013-08-27T09:00:00.000Z" resolved="yes"/>
@@ -285,25 +147,44 @@
     <change idref="t125" attribute="internalEffortDone" type="real" from="72000" to="115199.9931335449" resolved="yes"/>
     <change idref="t139" attribute="internalEffortDone" type="real" from="0" to="57600" resolved="yes"/>
   </task-change-set>
-  <metadata-change-set user="mani" date="2013-08-16T14:57:41.636Z" timestamp="2013-08-16T14:57:41.636Z">
-    <change idref="m1" attribute="baselineInfo" type="dict" from="{
-    info =     (
-                {
-            name = &quot;Baseline 13-8-8&quot;;
-            uuid = ds0WFxG1mZG;
-        }
-    );
-}" to="{
-    info =     (
-                {
-            name = &quot;Baseline 13-8-8&quot;;
-            uuid = ds0WFxG1mZG;
-        },
-                {
-            name = &quot;Baseline 13-8-16&quot;;
-            uuid = hzuzgyf3QQ1;
-        }
-    );
-}" resolved="yes"/>
-  </metadata-change-set>
+  <task-change-set user="mani" date="2013-08-30T14:19:25.220Z" timestamp="2013-08-30T14:19:25.220Z">
+    <change idref="t71" attribute="title" type="string" from="模块2" to="模块3" resolved="yes"/>
+    <change idref="t82" attribute="title" type="string" from="模块3" to="模块2" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="mani" date="2013-09-02T10:58:26.497Z" timestamp="2013-09-02T10:58:26.497Z">
+    <change idref="t88" attribute="internalEffortDone" type="real" from="86399.9921875" to="115199.9931335449" resolved="yes"/>
+    <change idref="t125" attribute="internalEffortDone" type="real" from="115199.9921875" to="144000" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="mani" date="2013-09-03T10:41:02.612Z" timestamp="2013-09-03T10:41:02.612Z">
+    <change idref="t88" attribute="internalEffortDone" type="real" from="115199.9921875" to="144000" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="mani" date="2013-09-03T10:43:39.536Z" timestamp="2013-09-03T10:43:39.536Z">
+    <change idref="t9" attribute="resourceLeveledDate" type="date" from="2013-08-23T00:00:00.000Z" to="2013-08-28T09:00:00.000Z" resolved="yes"/>
+    <change idref="t55" attribute="resourceLeveledDate" type="date" from="2013-09-11T09:00:00.000Z" to="2013-09-22T09:00:00.000Z" resolved="yes"/>
+    <change idref="t71" attribute="title" type="string" from="模块3" to="模块4" resolved="yes"/>
+    <change idref="t83" from="t-1" from-position="12" to="t82" to-position="5" resolved="yes"/>
+    <change idref="t83" attribute="title" type="string" from="模块4" to="模块3" resolved="yes"/>
+    <change idref="t91" attribute="resourceLeveledDate" type="date" from="2013-08-30T00:00:00.000Z" to="2013-08-27T00:00:00.000Z" resolved="yes"/>
+    <change idref="t92" attribute="resourceLeveledDate" type="date" from="2013-09-27T00:00:00.000Z" to="2013-09-18T00:00:00.000Z" resolved="yes"/>
+    <change idref="t96" attribute="resourceLeveledDate" type="date" from="2013-08-27T09:00:00.000Z" to="2013-08-23T00:00:00.000Z" resolved="yes"/>
+    <change idref="t96" attribute="internalAssignments" type="string" from="7" to="6" resolved="yes"/>
+    <change idref="t97" attribute="resourceLeveledDate" type="date" from="2013-09-24T09:00:00.000Z" to="2013-09-16T00:00:00.000Z" resolved="yes"/>
+    <change idref="t102" attribute="resourceLeveledDate" type="date" from="2013-10-08T00:00:00.000Z" to="2013-10-09T09:00:00.000Z" resolved="yes"/>
+    <change idref="t103" attribute="resourceLeveledDate" type="date" from="2013-09-03T00:00:00.000Z" to="2013-09-02T09:00:00.000Z" resolved="yes"/>
+    <change idref="t105" attribute="resourceLeveledDate" type="date" from="2013-10-10T00:00:00.000Z" to="2013-10-12T00:00:00.000Z" resolved="yes"/>
+    <change idref="t113" attribute="resourceLeveledDate" type="date" from="2013-10-11T00:00:00.000Z" to="2013-10-14T00:00:00.000Z" resolved="yes"/>
+    <change idref="t117" attribute="resourceLeveledDate" type="date" from="2013-10-14T00:00:00.000Z" to="2013-10-16T00:00:00.000Z" resolved="yes"/>
+    <change idref="t124" attribute="resourceLeveledDate" type="date" from="2013-09-22T00:00:00.000Z" to="2013-09-29T00:00:00.000Z" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="mani" date="2013-09-04T10:49:58.574Z" timestamp="2013-09-04T10:49:58.574Z">
+    <change idref="t9" attribute="resourceLeveledDate" type="date" from="2013-08-28T09:00:00.000Z" to="2013-08-23T00:00:00.000Z" resolved="yes"/>
+    <change idref="t91" attribute="internalEffortDone" type="real" from="0" to="28800" resolved="yes"/>
+    <change idref="t92" attribute="internalEffortDone" type="real" from="0" to="21600" resolved="yes"/>
+    <change idref="t96" attribute="internalEffortDone" type="real" from="0" to="28800" resolved="yes"/>
+    <change idref="t97" attribute="internalEffortDone" type="real" from="0" to="21600" resolved="yes"/>
+    <change idref="t103" attribute="resourceLeveledDate" type="date" from="2013-09-02T09:00:00.000Z" to="2013-08-29T00:00:00.000Z" resolved="yes"/>
+    <change idref="t106" attribute="resourceLeveledDate" type="date" from="2013-09-05T00:00:00.000Z" to="2013-09-02T00:00:00.000Z" resolved="yes"/>
+    <change idref="t114" attribute="resourceLeveledDate" type="date" from="2013-09-09T00:00:00.000Z" to="2013-09-04T00:00:00.000Z" resolved="yes"/>
+    <change idref="t118" attribute="resourceLeveledDate" type="date" from="2013-09-11T00:00:00.000Z" to="2013-09-06T00:00:00.000Z" resolved="yes"/>
+  </task-change-set>
 </changelog>
