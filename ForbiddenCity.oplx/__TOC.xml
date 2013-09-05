@@ -8,7 +8,7 @@
     <status-display>basic</status-display>
     <task-view>
       <split-view-divider-position>746</split-view-divider-position>
-      <outline x="0" y="603" w="746" h="774">
+      <outline x="0" y="0" w="746" h="774">
         <column name="Violations" width="20"/>
         <column name="Notes" width="20"/>
         <column name="Title" width="206"/>
@@ -18,11 +18,11 @@
         <column name="Effort" width="70"/>
         <column name="Assigned" width="72"/>
         <column name="%Done" width="87"/>
-        <expanded-items idrefs="t46 t83 t13 t1 t71 t84 t2 t30 t89 t100 t72 t3 t56 t85 t127 t73 t99 t82 t66 t95 t12 t110 t58"/>
-        <expanded-item-notes idrefs="t52 t13 t72 t83 t112 t16 t89 t84 t73 t1 t110 t100 t82 t12 t123 t71 t85 t46 t99"/>
-        <selected-items-at-filter-time idrefs="t73 t58 t81 t66 t132 t109 t82 t121 t67 t83 t110 t68 t133 t91 t76 t84 t122 t92 t69 t77 t10 t85 t134 t93 t100 t78 t86 t123 t79 t112 t12 t87 t135 t95 t124 t88 t13 t96 t113 t136 t89 t97 t102 t30 t125 t98 t114 t31 t137 t16 t99 t103 t40 t115 t41 t104 t127 t34 t50 t139 t43 t105 t51 t128 t44 t29 t52 t60 t45 t106 t2 t129 t61 t46 t3 t54 t62 t39 t47 t5 t130 t55 t6 t48 t71 t7 t56 t64 t8 t131 t49 t72 t80 t9 t65 t120"/>
+        <expanded-items idrefs="t30 t83 t72 t66 t58 t95 t84 t89 t1 t73 t100 t110 t71 t2 t82 t85 t56 t99 t3"/>
+        <expanded-item-notes idrefs="t83 t72 t112 t99 t13 t16 t89 t84 t73 t1 t110 t100 t82 t71 t12 t123 t85 t46 t52"/>
+        <selected-items-at-filter-time idrefs="t73 t58 t81 t66 t132 t109 t82 t121 t67 t110 t83 t68 t133 t91 t76 t84 t122 t69 t92 t77 t10 t85 t134 t93 t78 t100 t123 t86 t79 t112 t12 t87 t135 t95 t13 t88 t124 t96 t113 t136 t89 t97 t102 t30 t125 t98 t31 t114 t16 t137 t99 t103 t40 t115 t41 t104 t127 t34 t50 t139 t43 t105 t51 t128 t44 t29 t52 t60 t45 t106 t2 t129 t61 t3 t46 t54 t62 t39 t130 t5 t47 t55 t6 t71 t48 t7 t56 t64 t8 t131 t49 t72 t9 t80 t65 t120"/>
       </outline>
-      <gantt-view x="-45" y="603" w="689" h="774">
+      <gantt-view x="-45" y="0" w="689" h="774">
         <view-mode>actual</view-mode>
         <dependency-lines/>
         <constraints/>
